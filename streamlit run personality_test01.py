@@ -1,5 +1,3 @@
-pip install streamlit
-
 # ファイル名：personality_test.py
 
 import streamlit as st
