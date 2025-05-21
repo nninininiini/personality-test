@@ -1,3 +1,22 @@
+st.markdown(
+    """
+    <style>
+    .main {
+        background-color: #f5f5f5;
+        padding: 20px;
+        border-radius: 10px;
+    }
+    h1 {
+        color: #2e7d32;
+        text-align: center;
+    }
+    </style>
+    """,
+    unsafe_allow_html=True
+)
+st.title("🌟 あなたの性格を診断します 🌟")
+
+
 # ファイル名：personality_test.py
 
 import streamlit as st
