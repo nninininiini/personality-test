@@ -23,7 +23,6 @@ st.title("🌟 あなたの性格を診断します 🌟")
 
 import streamlit as st
 
-st.title("あなたの性格を診断します")
 st.write("以下の5つの質問に答えてください")
 
 # 質問パート（ラジオボタンで選択）
